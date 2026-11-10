@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or workflow in your research, please cite this software."
+title: "CUT&Tag-ChIP-seq Benchmarking"
+
+authors:
+  - family-names: "Tian"
+    given-names: "Mengxue"
+    affiliation: "University of Virginia"
+
+version: "1.0"
+date-released: 2026-11-09
+
+repository-code: "https://github.com/tmx1228/CUTnTag-ChIPseq-Benchmarking"
+
+license: "MIT"
+
+keywords:
+  - "CUT&Tag"
+  - "ChIP-seq"
+  - "epigenomics"
+  - "chromatin profiling"
+  - "sequencing depth"
+  - "peak calling"
+  - "benchmarking"
+
+abstract: "Analysis code for systematic benchmarking of CUT&Tag and ChIP-seq datasets across transcription factors and histone modifications, including sequencing-depth analysis, peak-calling comparisons, assay-specific peak analysis, and cross-sample similarity analysis."
