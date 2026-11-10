@@ -1,4 +1,5 @@
-# CUT&Tag–ChIP-seq Benchmarking
+# Data-driven guidelines for high-quality CUT&Tag experiments <img width="468" height="51" alt="image" src="https://github.com/user-attachments/assets/40db4c52-c774-4e0b-a55e-cc9e956c3b4c" />
+
 
 Analysis code associated with the manuscript:
 
